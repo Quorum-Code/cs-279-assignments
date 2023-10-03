@@ -1,0 +1,12 @@
+For variable: <i>
+For list: <${!stuff[*]}>
+
+For variable: <i>
+For list: <${!arr[*]}>
+
+For variable: <i>
+For list: <${!arr[*]}>
+
+For variable: <i>
+For list: <${!arr[*]}>
+

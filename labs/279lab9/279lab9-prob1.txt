@@ -1,0 +1,17 @@
+# Evan Putnam, Giselle Urquijo, Kristin Tran
+
+# 1 part a
+which nano
+/usr/bin/nano
+
+# 1 part b
+which sqlplus
+/usr/lib/oracle/12.1/client64/bin/sqlplus
+
+# 1 part c
+which stdout.sh
+~/bin/stdout.sh
+
+# 1 part d
+ls /usr/bin | wc -w
+1454

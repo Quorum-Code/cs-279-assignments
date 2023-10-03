@@ -1,0 +1,5 @@
+pattern
+goes
+here
+some more text
+fin

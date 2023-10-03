@@ -1,0 +1,21 @@
+#!/bin/bash
+# Evan Putnam, Giselle Urquijo
+
+# 1 part a
+cd
+grep -l "#\!/bin/bash" *
+
+# 1 part b
+grep -l "#\!/bin/bash" * | tee script-list.txt | wc -l
+
+# 1 part c
+1
+
+# 1 part d
+wc * -l
+
+# 1 part e
+wc -l * | tee line-sizes.txt | sort -n
+
+# 1 part f
+wc -l ~/bin/* | tee line-sizes.txt | sort -n > sorted-order.txt

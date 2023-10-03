@@ -1,0 +1,31 @@
+# Evan Putnam
+
+# 3 part a
+head -5 ~ebp20/.bash_profile
+
+# 3 part b
+diff tweedlefee tweedledum | grep "twins"
+
+# 3 part c
+sed -e 's/Sonoma/Humboldt/' SSU.txt > Humboldt.txt
+
+# 3 part d
+tail -4 *.txt
+
+# 3 part e
+tar -cvf 279tools 279tools.tar
+
+# 3 part f
+gzip -v 279tools.tar
+
+# 3 part g
+gunzip 279tools.tar.gz
+
+# 3 part h
+tar -xvf 279tools.tar 279tools
+
+# 3 part i
+
+
+# 3 part j
+sed -e s/^/'    '/ lookity.txt > shift-look.txt

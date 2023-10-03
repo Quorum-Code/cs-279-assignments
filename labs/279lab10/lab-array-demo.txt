@@ -1,0 +1,9 @@
+6
+apple banana monday tuesday wednesday 12 mouse
+0 1 2 3 12 13
+apple
+banana
+monday tuesday
+wednesday
+12
+mouse

@@ -1,0 +1,19 @@
+alias ls="ls -a"
+.
+..
+279hw
+279lab1
+325hw
+325lab
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+bin
+.cache
+.config
+.emacs
+.emacs.d
+input
+.ssh
+text-backups

@@ -1,0 +1,11 @@
+# Evan Putnam
+
+prob4=963
+
+echo \$prob4 has the value $prob4
+
+echo ooo${prob4}
+
+echo ${prob4}ooo
+
+echo ooo${prob4}ooo

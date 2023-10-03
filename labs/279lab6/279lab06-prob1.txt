@@ -1,0 +1,92 @@
+
+CS 279 - Week 6 Lab Exercise - 2022-09-29
+
+Type in your answers WITHIN this file
+(do NOT delete the questions!)
+
+Type YOUR NAMES after the line: 
+===============================
+Evan Putnam, Giselle Urquijo
+
+
+
+1. Below, write two commands:
+   *   one creating a shell variable NOT using
+       the export command, and  
+   *   one creating a different shell variable USING 
+       the export command
+
+   (You choose the variables' names and initial (non-blank) values.)
+
+   Also run these two commands in your current nrs-projects shell 
+   session.
+============
+var="stuff"
+export var2="again"
+
+
+2. Create a small bash script lab6-1 or lab6-1.sh that
+   has the usual first line and a comment containing at least both
+   of your names, that then echoes the names and then the values of 
+   variables with the same names as the two variables you created in 
+   Problem 1.
+
+   When you execute this script, type below what it prints to
+   the screen.
+============
+var,var2:
+, again
+
+
+
+
+3. Now add four commands to your bash script lab6-1 or lab6-1.sh,
+   *   two CHANGING the values of the variables with the same names as 
+       the two variables you created in Problem 1,
+
+   *   and two that now again echo the names and then the values of
+       those variables to the screen.
+
+   When you now this script, type below what it now prints
+   to the screen.
+============
+var, var2:
+123, 456
+
+
+
+
+
+
+4. *Back in your current ssh session*, type in commands that
+   echo to the screen the names and then the values of
+   those variables you created in Problem 1.
+
+   Type below what is now printed to the screen by those commands.
+============
+var, var2:
+stuff, again
+
+
+
+5. Create a file demo-lab6-1.txt as follows:
+   *   echo the message "About to call lab6-1", redirecting the
+       output to a file demo-lab6-1.txt.
+
+   *   execute your script lab6-1 or lab6-1.sh, redirecting the
+       output so that it is *appended* to the end of demo-lab6-1.txt.
+
+   *   then echo the message "After calling lab6-1", redirecting
+       the output so that it is *appended* to the end of demo-lab6-1.txt.
+
+   *   finally, echo the names and then the values of those variables
+       you created in Problem 1, except redirect this output so that
+       it is *appended* to the end of demo-lab6-1.txt.
+
+   Submit the following files:
+   *   your filled-in copy of 279lab06-prob1.txt
+   *   your resulting version of lab6-1 or lab6-1.sh
+   *   your resulting version of demo-lab6-1.txt
+============   
+
+

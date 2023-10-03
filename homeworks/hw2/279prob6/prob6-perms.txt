@@ -1,0 +1,6 @@
+279prob6's permissions: 
+drwx------. 2 ebp20 ebp20 4096 Sep 16 21:47 279prob6
+prob6play.txt's initial permissions: 
+-rw-rw-r--. 1 ebp20 ebp20 35 Sep 16 21:49 prob6play.txt
+prob6play.txt's modified permissions: 
+-rw-rw-r--. 1 ebp20 ebp20 35 Sep 16 21:49 prob6play.txt

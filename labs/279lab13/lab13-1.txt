@@ -1,0 +1,25 @@
+# Evan Putnam, Giselle Urquijo
+
+# 1 part a
+!!
+
+# 1 part b
+!46
+
+# 1 part c
+history 7
+
+# 1 part d
+!grep
+
+# 1 part e
+!?grep
+
+# 1 part f
+!-6
+
+# 1 part g
+!!:s/297/279/
+
+# 1 part h
+!!:gs/2/4/

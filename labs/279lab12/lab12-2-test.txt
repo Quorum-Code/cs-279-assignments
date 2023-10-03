@@ -1,0 +1,52 @@
+STARTING STATE
+==============
+/home/ebp20/279lab/279lab12
+total 28
+drwxrwxr-x. 3 ebp20 ebp20 4096 Nov 10 09:52 folder
+-rw-rw-r--. 1 ebp20 ebp20  283 Nov 10 09:29 lab12-1-backup.txt
+-rw-rw-r--. 1 ebp20 ebp20  283 Nov 10 09:24 lab12-1.txt
+-rwx------. 1 ebp20 ebp20  470 Nov 10 09:49 lab12-2.sh
+-rw-rw-r--. 1 ebp20 ebp20   58 Nov 10 09:53 lab12-2-test.txt
+-rw-rw-r--. 1 ebp20 ebp20 4370 Nov 10 09:16 out.txt
+drwxrwxr-x. 2 ebp20 ebp20 4096 Nov 10 09:43 ../279lab11
+total 0
+-rw-rw-r--. 1 ebp20 ebp20 0 Nov 10 09:43 something
+
+About to zip file lab12-1-backup.txt
+====================================
+total 28
+drwxrwxr-x. 3 ebp20 ebp20 4096 Nov 10 09:52 folder
+-rw-rw-r--. 1 ebp20 ebp20  201 Nov 10 09:29 lab12-1-backup.txt.gz
+-rw-rw-r--. 1 ebp20 ebp20  283 Nov 10 09:24 lab12-1.txt
+-rwx------. 1 ebp20 ebp20  470 Nov 10 09:49 lab12-2.sh
+-rw-rw-r--. 1 ebp20 ebp20  595 Nov 10 09:53 lab12-2-test.txt
+-rw-rw-r--. 1 ebp20 ebp20 4370 Nov 10 09:16 out.txt
+total 28
+drwxrwxr-x. 3 ebp20 ebp20 4096 Nov 10 09:52 folder
+-rw-rw-r--. 1 ebp20 ebp20  283 Nov 10 09:29 lab12-1-backup.txt
+-rw-rw-r--. 1 ebp20 ebp20  283 Nov 10 09:24 lab12-1.txt
+-rwx------. 1 ebp20 ebp20  470 Nov 10 09:49 lab12-2.sh
+-rw-rw-r--. 1 ebp20 ebp20  945 Nov 10 09:53 lab12-2-test.txt
+-rw-rw-r--. 1 ebp20 ebp20 4370 Nov 10 09:16 out.txt
+
+About to use Tar
+================
+../279lab11/
+../279lab11/something
+total 40
+-rw-rw-r--. 1 ebp20 ebp20 10240 Nov 10 09:53 279lab11.tar
+drwxrwxr-x. 3 ebp20 ebp20  4096 Nov 10 09:52 folder
+-rw-rw-r--. 1 ebp20 ebp20   283 Nov 10 09:29 lab12-1-backup.txt
+-rw-rw-r--. 1 ebp20 ebp20   283 Nov 10 09:24 lab12-1.txt
+-rwx------. 1 ebp20 ebp20   470 Nov 10 09:49 lab12-2.sh
+-rw-rw-r--. 1 ebp20 ebp20  1362 Nov 10 09:53 lab12-2-test.txt
+-rw-rw-r--. 1 ebp20 ebp20  4370 Nov 10 09:16 out.txt
+/home/ebp20/279lab/279lab12/folder
+279lab11/
+279lab11/something
+/home/ebp20/279lab/279lab12/folder
+drwxrwxr-x. 3 ebp20 ebp20 4096 Nov 10 09:53 .
+total 16
+drwxrwxr-x. 2 ebp20 ebp20  4096 Nov 10 09:43 279lab11
+-rw-rw-r--. 1 ebp20 ebp20 10240 Nov 10 09:53 279lab11.tar
+-rw-rw-r--. 1 ebp20 ebp20     0 Nov 10 09:45 text.txt

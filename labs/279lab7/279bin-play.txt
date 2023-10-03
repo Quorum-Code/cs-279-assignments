@@ -1,0 +1,9 @@
+bin contents:
+total 20
+drwx------.  2 ebp20 ebp20 4096 Oct  6 09:40 .
+drwx------. 12 ebp20 ebp20 4096 Oct  6 09:41 ..
+-rw-rw-r--.  1 ebp20 ebp20  157 Oct  6 09:22 279alias-play.txt
+-rw-rw-r--.  1 ebp20 ebp20  144 Oct  6 09:37 279prompt-play.txt
+-rwx------.  1 ebp20 ebp20   32 Oct  6 09:40 stdout.sh
+
+SOMETHING!\n

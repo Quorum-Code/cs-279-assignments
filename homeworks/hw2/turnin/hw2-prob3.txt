@@ -1,0 +1,9 @@
+# Evan Putnam
+
+/Users/cbrown/football/past-seasons/f21-schedule.txt
+
+ls ./football/past-seasons
+
+mv ./football/f22-schedule.txt ./football/past-seasons
+
+ls -l ./football/past-seasons

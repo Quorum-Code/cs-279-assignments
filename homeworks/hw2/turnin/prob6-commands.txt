@@ -1,0 +1,38 @@
+  724  mkdir 279prob6
+  725  cd 279prob6/
+  726  ls
+  727  chmod 700 ../279prob6/
+  728  cd ..
+  729  ls
+  730  cd 279prob6/
+  731  ls
+  732  echo "279prob6's permissions: " > 279prob6/prob6per.text
+  733  cd ..
+  734  echo "279prob6's permissions: " > 279prob6/prob6per.text
+  735  cd 279prob6/
+  736  ls
+  737  cat prob6per.text 
+  738  rm prob6per.text 
+  739  cd ..
+  740  echo "279prob6's permissions: " > 279prob6/prob6-perms.txt
+  741  cd 279prob6/
+  742  ls
+  743  cat prob6-perms.txt 
+  744  cd ..
+  745  ls -ld 279prob6 >> 279prob6/prob6-perms.txt
+  746  cd 279prob6/
+  747  ls
+  748  cat prob6-perms.txt 
+  749  touch prob6play.txt
+  750  nano prob6play.txt 
+  751  echo "prob6play.txt's initial permissions: " >> prob6-perms.txt
+  752  ls -l prob6play.txt >> prob6-perms.txt
+  753  ls
+  754  cat prob6-perms.txt 
+  755  echo "prob6play.txt's modified permissions: " >> prob6-perms.txt
+  756  ls -l prob6play.txt >> prob6-perms.txt
+  757  history
+  758  history 33
+  759  history 35
+  760  history 36
+  761  history 38 >> prob6-commands.txt

@@ -1,0 +1,1 @@
+/home/ebp20/bin/stdout.sh

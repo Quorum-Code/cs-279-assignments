@@ -1,0 +1,4 @@
+pwd
+ls
+echo "some-commands done..."
+jobs

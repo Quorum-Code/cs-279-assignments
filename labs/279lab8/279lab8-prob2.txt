@@ -1,0 +1,10 @@
+# Evan Putnam, Giselle Urquijo
+
+# 2 part a
+grep -l "Boast Value" *
+
+# 2 part b
+grep -n "Boast Value" *
+
+# 2 part c
+grep -ic "boast value" *

@@ -1,0 +1,3 @@
+# Evan Putnam, Giselle Urquijo
+* * * * * 	/bin/date >> /home/ebp20/279lab/279lab14/crontab-play.txt
+53 * * * * 	/home/ebp20/279lab/279lab14/crontab-script.sh >> /home/ebp20/279lab/279lab14/crontab-play.txt

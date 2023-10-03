@@ -1,0 +1,16 @@
+# Evan Putnam, Giselle Urquijo
+
+# 1 part a
+find ~st10 -name important-script.sh -print 2> /dev/null
+
+# 1 part b
+/home/st10/stuff/sub-stuff/sub-sub-stuff/important-script.sh
+
+# 1 part c
+Eureka you found it
+
+# 1 part d
+find ~ebp20 -name *.sh -print 2> /dev/null | wc -l
+
+# 1 part e
+26

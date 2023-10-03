@@ -1,0 +1,4 @@
+ 19 /home/ebp20/bin/279alias-play.txt
+ 11 /home/ebp20/bin/279prompt-play.txt
+  2 /home/ebp20/bin/stdout.sh
+ 32 total

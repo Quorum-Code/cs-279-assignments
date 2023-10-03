@@ -1,0 +1,7 @@
+file: grab-comments.sh
+#!/bin/bash
+# Evan Putnam, Giselle Urquijo, Kristin Tran
+# Checks if 1 input
+if [[ $# != 1 ]]
+# Checks if valid file
+grep "\#" $1 >> saved-comments.txt

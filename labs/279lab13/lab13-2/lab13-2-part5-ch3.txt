@@ -1,0 +1,57 @@
+!pattern
+!goes
+!here
+!ADDED STUFF
+!AND MORE STUFF
+!STUFF
+!some more text
+!fin
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+!pattern
+!goes
+!here
+!ADDED STUFF
+!AND MORE STUFF
+!STUFF
+!some more text
+!fin
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+!pattern
+!goes
+!here
+!ADDED STUFF
+!AND MORE STUFF
+!STUFF
+!some more text
+!fin
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2

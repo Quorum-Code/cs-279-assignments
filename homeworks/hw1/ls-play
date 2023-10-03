@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# hw1-4.sh
+# Evan Putnam 8/29/2022 CS 279
+
+echo "-l" use a long list format
+ls -l
+echo "-s" print the allocated size of each file in blocks
+ls -s
+echo "-t" sort by modification time, newest first
+ls -t

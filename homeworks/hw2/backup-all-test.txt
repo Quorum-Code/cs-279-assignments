@@ -1,0 +1,18 @@
+Contents of BACKUP:
+ancestors.pl
+backup-all.sh
+backup-all-test.txt
+exampl.sql
+hw2-prob2.txt
+hw2-prob3.txt
+hw2-prob4.txt
+lab1.txt
+lab2.txt
+lab3.txt
+lab45.rkt
+lab754.pl
+lab9.cpp
+OLDlab1.txt
+OLDlab4.txt
+rules.rkt
+slab-msrmts.txt

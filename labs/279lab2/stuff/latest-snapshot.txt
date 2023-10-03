@@ -1,0 +1,5 @@
+Hello
+Thu Sep  1 10:03:12 PDT 2022
+Following is the absolute pathname of calling directory
+/home/ebp20/279lab1/279lab2/stuff
+latest-snapshot.txt

@@ -1,0 +1,12 @@
+/home/ebp20/.emacs
+/home/ebp20/.ssh/known_hosts
+/home/ebp20/.bashrc
+/home/ebp20/279lab/279lab3/279lab03-prob1.txt
+/home/ebp20/279lab/279lab7/.bashrc
+/home/ebp20/279lab/279lab7/.bash_profile
+/home/ebp20/279lab/279lab6/279lab06-prob1.txt
+/home/ebp20/279lab/279lab6/prob3/lab6-postscript.txt
+/home/ebp20/279lab/279lab6/prob3/lab6-prelude.txt
+/home/ebp20/279lab/279lab2/279lab02-prob1.txt
+/home/ebp20/.bash_logout
+/home/ebp20/.bash_profile

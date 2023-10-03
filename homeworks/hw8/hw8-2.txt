@@ -1,0 +1,22 @@
+# Evan Putnam
+
+# 2 part a
+find ~ -name a.out -print
+
+# 2 part b
+find . -name *.sh -print
+
+# 2 part c
+find ~ -name submitted -type d -print
+
+# 2 part d
+find ~ ~st10/public_html -type d -name 279* -print
+
+# 2 part e
+find . -type d -perm 755
+
+# 2 part f
+find ~ -type f | wc -l
+
+# 2 part g
+find ~ -type f -perm 644 | tee files-644.txt | wc -l

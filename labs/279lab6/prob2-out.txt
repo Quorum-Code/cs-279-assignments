@@ -1,0 +1,35 @@
+problem 2 - 1
+  PID TTY          TIME CMD
+22947 pts/4    00:00:00 bash
+26077 pts/4    00:00:00 ps
+problem 2 - 2
+[1]   Stopped                 nano play.txt
+[2]-  Stopped                 man ps
+[3]+  Stopped		      top
+  PID TTY          TIME CMD
+22947 pts/4    00:00:00 bash
+26099 pts/4    00:00:00 nano
+26128 pts/4    00:00:00 man
+26141 pts/4    00:00:00 less
+26236 pts/4    00:00:00 top
+26346 pts/4    00:00:00 ps
+
+problem 2 - 3
+[2]-  Stopped                 man ps
+[3]+  Stopped		      top
+  PID TTY          TIME CMD
+22947 pts/4    00:00:00 bash
+27045 pts/4    00:00:00 man
+27058 pts/4    00:00:00 less
+27136 pts/4    00:00:00 top
+27283 pts/4    00:00:00 ps
+problem 2 - 4
+[3]+  Stopped                 top
+  PID TTY          TIME CMD
+22947 pts/4    00:00:00 bash
+27636 pts/4    00:00:00 top
+28735 pts/4    00:00:00 ps
+problem 2 - 5
+  PID TTY          TIME CMD
+22947 pts/4    00:00:00 bash
+28933 pts/4    00:00:00 ps

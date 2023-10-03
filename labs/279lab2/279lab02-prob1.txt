@@ -1,0 +1,163 @@
+
+CS 279 - Week 2 Lab Exercise - 2022-09-01
+
+Type in your answers WITHIN this file
+(do NOT delete the questions!)
+
+Type YOUR NAMES after the line: 
+===============================
+Evan Putnam, Giselle Urquijo
+
+
+1. Consider the following sequence of commands;
+   assume they are being typed within a newly-created,
+   currently-empty directory:
+
+   mkdir cache
+   cd cache
+   echo treasure > chest.txt
+   cd ..
+
+   After the line, type one or more commands such that, after those
+   commands have been run, directory cache and any contents it happens
+   to have will have been deleted:
+
+   rm cache/chest.txt
+   rmdir cache
+
+==========================================
+
+
+
+
+2. Consider the	following sequence of commands;
+   assume they are being typed within a	newly-created,
+   currently-empty directory:
+
+   mkdir try-it
+   cd try-it
+   echo hidden stuff > .chest.txt
+   echo obvious stuff > box.txt
+   cd ..
+   echo local stuff > here.txt
+
+   After the line, type a single command
+   NOT using echo and including try-it within it
+   that will print to the screen as its output:
+.		..		.chest.txt	box.txt   
+
+   ls -a try-it
+
+
+==========================================
+
+
+
+3. Assume that your current directory contains only these files:
+
+   alpha.txt
+   beta.cpp
+   delta.cpp
+   epsilon.txt
+   gamma.h
+   zeta.h
+
+   And then this command is run:
+   mkdir put-here
+
+   After the line, type one or more commands such that, after those
+   commands have been run, the current directory will contain the SAME
+   files as it does right now, but directory put-here will now also
+   contain files gamma.h and zeta.h whose contents are the same as
+   those in the current directory.
+
+   cp *.h put-here/
+
+
+==========================================
+
+
+
+
+   
+4. Assume that your current directory contains only these files:
+
+   alpha.txt
+   beta.cpp
+   delta.cpp
+   epsilon.txt
+   gamma.h
+   put-here
+   zeta.h
+
+   And then this command is run:
+   mkdir save-me
+
+   After the line, type one or more commands such that, after those
+   commands are run, the current directory will contain only:
+
+   alpha.txt
+   epsilon.txt
+   gamma.h
+   put-here
+   save-me
+   zeta.h
+
+   ...and directory save-me will contain these files:
+
+   beta.cpp
+   delta.cpp
+
+   ...whose contents are the same as those files that were
+   previously in the current directory.
+
+   mv *.cpp save-me/
+
+==========================================
+
+
+
+
+
+5. Consider the following sequence of commands;
+   assume they are being typed within a newly-created,
+   currently-empty directory:
+
+   mkdir project1
+   cd project1
+   mkdir p1-part1
+   mkdir p1-part2
+   cd p1-part2
+   mkdir p1-part2-extras
+   cd p1-part2-extras
+
+   After the line, type one or more commands such that, after those
+   command(s) are run, the current working directory will be p1-part1.
+
+   cd ../../p1-part1
+
+==========================================
+
+
+
+
+
+6. Consider the following sequence of commands;
+   assume they are being typed within a newly-created,
+   currently-empty directory:
+
+   echo first > looky.txt
+   echo second > looky.txt
+   echo third >> looky.txt
+   cat looky.txt
+
+   After the line, type what the last command above will output
+   to the screen:
+ 
+   second
+   third
+
+========================================
+
+
+

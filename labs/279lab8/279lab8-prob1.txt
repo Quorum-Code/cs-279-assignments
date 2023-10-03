@@ -1,0 +1,19 @@
+# Evan Putnam, Giselle Urquijo
+
+# 1 part a
+????.txt
+
+# 1 part b
+[XYZ].cpp
+
+# 1 part c
+*[0-9]*
+
+# 1 part d
+[a-z][a-z][0-9][0-9]*
+
+# 1 part e
+???*
+
+# 1 part f
+[[:upper:]][!aeiouAEIOU]*

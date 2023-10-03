@@ -1,0 +1,7 @@
+# Evan Putnam, Giselle Urquijo
+
+# test.txt
+
+ln test.txt hardlink.txt
+
+ln -s test.txt softlink.txt

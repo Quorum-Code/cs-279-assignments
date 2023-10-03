@@ -1,0 +1,39 @@
+Evan Putnam, Giselle Urquijo
+
+About to run the date command...
+ThuThursday December
+
+About to run cal command...
+     August 1200    
+Su Mo Tu We Th Fr Sa
+       1  2  3  4  5
+ 6  7  8  9 10 11 12
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30 31
+
+
+About to run uname command...
+Linux nrs-projects.humboldt.edu 3.10.0-1160.80.1.el7.x86_64 #1 SMP Tue Nov 8 15:48:59 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+About to run du command...
+4	./menu-play.sh
+4	./lab14-play.sh
+4	./lab14-3-crontab.txt
+4	./lab14-out.txt
+4	./final-ck.txt
+4	./crontab-play.txt
+4	./crontab-script.sh
+32	.
+
+32	.
+
+About to run uptime command...
+ 10:10:33 up 11 days,  4:10,  7 users,  load average: 0.46, 0.15, 0.09
+
+About to run the time command...
+This is for Linux Lab 14
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s

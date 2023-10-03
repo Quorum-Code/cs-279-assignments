@@ -1,0 +1,16 @@
+total 12
+-rw-------. 1 ebp20 ebp20 3422 Sep  8 10:11 279lab03-prob1.txt
+-rw-------. 1 ebp20 ebp20  319 Sep  8 10:11 backup-dates.txt
+-rw-------. 1 ebp20 ebp20   15 Sep  8 10:11 test.txt
+Contents of ~/text-backups/backup-dates.txt: 
+Thu Sep  8 09:55:54 PDT 2022
+Thu Sep  8 09:56:42 PDT 2022
+Thu Sep  8 09:59:03 PDT 2022
+Thu Sep  8 10:00:21 PDT 2022
+Thu Sep  8 10:01:51 PDT 2022
+Thu Sep  8 10:02:08 PDT 2022
+Thu Sep  8 10:03:18 PDT 2022
+Thu Sep  8 10:03:54 PDT 2022
+Thu Sep  8 10:04:52 PDT 2022
+Thu Sep  8 10:06:46 PDT 2022
+Thu Sep  8 10:08:33 PDT 2022

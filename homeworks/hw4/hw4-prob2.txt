@@ -1,0 +1,19 @@
+# Evan Putnam
+# hw4-prob2.txt
+# CS 279
+# 10/7/2022
+
+# 2 part a
+fg %2
+
+# 2 part b
+[3] vi hw3-prob3.txt
+
+# 2 part c
+kill %5
+
+# 2 part d
+[3] vi hw3-prob3.txt
+
+# 2 part e
+[6] doIt.sh

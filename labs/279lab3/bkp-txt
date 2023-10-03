@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#CS 279 Week 3 Lab Exercise for Problem 2
+#bkp-txt
+#Evan Putnam, Drake Eichlin, Kristin Tran
+#9/8/2022
+
+backup_dir=~/text-backups
+
+echo $backup_dir
+
+cp *.txt $backup_dir
+chmod 600 ${backup_dir}/*.txt
+date >> backup-dates.txt
+echo "All text files in pwd have been backed up to $backup_dir"

@@ -1,0 +1,31 @@
+# Evan Putnam, Giselle Urquijo
+
+# 3 part a
+^Romeo:
+
+# 3 part b
+"CS [0-9][0-9][0-9]"
+
+# 3 part c
+;$
+
+# 3 part d
+[;})]$
+
+# 3 part e
+one.two
+
+# 3 part f
+main\.txt
+
+# 3 part g
+^xy*
+
+# 3 part h
+^[[:lower:]].*[[:upper:]]$
+
+# 3 part i
+^#\!/bin/bash
+
+# 3 part j
+[[:blank:]][[:blank:]]*$

@@ -1,0 +1,17 @@
+# CS 279
+# Evan Putnam, Giselle Urquijo, Kristin Tran
+
+# 2 part a
+CS [0-9]\{3\}
+
+# 2 part b
+[A-Z]\{4,\}
+
+# 2 part c
+[a-z]\{5,8\}
+
+# 2 part d
+^\(XX*\)-\1$
+
+# 2 part e
+"\([0-9][0-9]*\)\1"

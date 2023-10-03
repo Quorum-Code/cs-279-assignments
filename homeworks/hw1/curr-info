@@ -1,0 +1,5 @@
+#! /bin/bash
+
+# Evan Putnam 8/29/2022 CS 279
+echo -n No trailing return!
+pwd

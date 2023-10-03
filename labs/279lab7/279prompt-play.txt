@@ -1,0 +1,11 @@
+# Evan Putnam
+
+export PS1="\u@\h [\$t] "
+ebp20@nrs-projects [9:36:59] 
+
+export PS1="\v\n\r\! "
+4.2
+1008
+
+export PS1="\w [\T] > "
+~ [9:37:33] > 

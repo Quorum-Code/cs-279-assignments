@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#Evan Putnam, Shyna Kumar 8/25/2022
+#
+
+echo Evan Putnam, Shyna Kumar
+pwd
+ls

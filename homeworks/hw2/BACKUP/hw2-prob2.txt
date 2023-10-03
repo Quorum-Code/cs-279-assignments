@@ -1,0 +1,11 @@
+# Evan Putnam
+
+------------------------
+
+Problem 2
+
+ls *.txt
+
+cp lab*.txt save-it
+
+lab1.txt, lab2.txt, lab3.txt, OLDlab1.txt, OLDlab4.txt, slab-msrmts.txt lab45.rkt, lab754.pl, lab9.cpp

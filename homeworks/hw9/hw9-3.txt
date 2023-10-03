@@ -1,0 +1,34 @@
+# Evan Putnam
+# 12/1/2022
+
+# 3 part a
+
+total 12
+4180877 -rw-rw-r--. 1 ebp20 ebp20 28 Dec  1 10:35 hw9-3.txt
+4180878 -rw-rw-r--. 2 ebp20 ebp20 36 Dec  1 10:35 ref-h-commands.txt
+4180879 lrwxrwxrwx. 1 ebp20 ebp20 17 Dec  1 10:36 ref-s-commands.txt -> some-commands.txt
+4180878 -rw-rw-r--. 2 ebp20 ebp20 36 Dec  1 10:35 some-commands.txt
+
+# 3 part b
+find ~ -type l -print
+
+# 3 part c
+
+/home/ebp20/trash/soft.txt
+/home/ebp20/279lab/279lab13/lab13-2/softlink.txt
+/home/ebp20/279hw/hw9/ref-s-commands.txt
+
+# 3 part d
+
+ 3  5 36 ref-h-commands.txt
+ 3  5 36 ref-s-commands.txt
+ 3  5 36 some-commands.txt
+
+ 4  6 41 ref-h-commands.txt
+ 4  6 41 ref-s-commands.txt
+ 4  6 41 some-commands.txt
+
+# 3 part e
+9017
+
+lrwxrwxrwx. 1 root root 22 Aug  9  2016 /usr/java/latest -> /usr/java/jdk1.8.0_101

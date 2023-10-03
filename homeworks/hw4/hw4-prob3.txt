@@ -1,0 +1,13 @@
+# Evan Putnam
+# hw4-prob3.txt
+# CS 279
+# 10/7/2022
+
+# 3 part a
+./do-things &
+
+# 3 part b
+export COLOR_PREF="red"
+
+# 3 part c
+^Z

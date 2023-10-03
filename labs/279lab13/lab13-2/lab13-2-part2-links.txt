@@ -1,0 +1,7 @@
+total 16
+3919405 -rw-rw-r--. 2 ebp20 ebp20 37 Nov 17 09:20 hardlink.txt
+3919408 -rw-rw-r--. 1 ebp20 ebp20 37 Nov 17 09:24 lab13-2-part1-orig.txt
+3919409 -rw-rw-r--. 1 ebp20 ebp20  0 Nov 17 09:24 lab13-2-part2-links.txt
+3919406 -rw-rw-r--. 1 ebp20 ebp20 98 Nov 17 09:23 lab13-2.txt
+3919407 lrwxrwxrwx. 1 ebp20 ebp20  8 Nov 17 09:23 softlink.txt -> test.txt
+3919405 -rw-rw-r--. 2 ebp20 ebp20 37 Nov 17 09:20 test.txt

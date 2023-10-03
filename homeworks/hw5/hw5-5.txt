@@ -1,0 +1,25 @@
+# Evan Putnam
+
+# 5 part a
+PATH = "$PATH:~st10/279stuff:~/bin" 
+
+# 5 part b
+alias rm='rm -i'
+
+# 5 part c
+ls [X-Z]*[a-c]
+
+# 5 part d
+ls test[02468].txt
+
+# 5 part e
+grep ^X.*a$ fred
+
+# 5 part f
+grep kkkkkk*j fred
+
+# 5 part g
+grep kkkkk.*j fred
+
+# 5 part h
+^[[:alpha:]][a-zA-Z_0-9]*

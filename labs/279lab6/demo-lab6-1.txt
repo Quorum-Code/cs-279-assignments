@@ -1,0 +1,8 @@
+About to call lab6-1
+var, var2:
+, again
+var, var2:
+123, 456
+After calling lab6-1
+var, var2:
+stuff, again

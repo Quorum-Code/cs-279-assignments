@@ -1,0 +1,19 @@
+# Evan Putnam, Giselle Urquijo
+
+# 3 part a
+sed -e 's/moo/MOO/' play.txt
+
+# 3 part b
+sed -e 's/^/MOO> /' play.txt
+
+# 3 part c
+sed -e '/^grep/s/$/\/**\//' play.txt
+
+# 3 part d
+sed -e '/^[[:blank:]]*$/d' play.txt
+
+# 3 part e
+sed -e '8,22d' play.txt
+
+# 3 part f
+sed -e 's/red/RED!/;s/black/DARKNESS/g' play.txt

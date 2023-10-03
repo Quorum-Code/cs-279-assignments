@@ -1,0 +1,12 @@
+# Evan Putnam
+
+# 4 part a
+
+is_quant ()
+{
+	if [[ $1 < 0 ]]
+	then
+		return 1
+	elif
+	fi
+}

@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Evan Putnam
+# stubborn
+# CS 279
+# 10/7/2022
+
+given_file=$1
+
+if [[ ! -e $given_file ]]
+then
+	echo "ERROR: Not a valid file name"
+	echo "Valid files in pwd..."
+	
+	ls
+
+	while [[ ! -e $given_file ]]
+	do
+		echo -en "\nEnter valid file: "
+		read given_file
+	done
+fi
+
+ls -ld $given_file
+
+if [[ -d $given_file ]]
+then
+	echo "File is a Directory"
+else
+	wc $given_file
+fi
+

@@ -1,0 +1,20 @@
+-l use a long list format
+total 20
+-rwx------. 1 ebp20 ebp20  77 Aug 29 13:35 curr-info
+-rw-rw-r--. 1 ebp20 ebp20 252 Aug 29 13:28 hw1-2.txt
+-rwx------. 1 ebp20 ebp20 215 Aug 29 13:59 ls-play
+-rw-rw-r--. 1 ebp20 ebp20  41 Aug 29 13:36 prob3-demo.txt
+-rw-rw-r--. 1 ebp20 ebp20  26 Sep  1 10:19 prob4-demo.txt
+-s print the allocated size of each file in blocks
+total 20
+4 curr-info
+4 hw1-2.txt
+4 ls-play
+4 prob3-demo.txt
+4 prob4-demo.txt
+-t sort by modification time, newest first
+prob4-demo.txt
+ls-play
+prob3-demo.txt
+curr-info
+hw1-2.txt

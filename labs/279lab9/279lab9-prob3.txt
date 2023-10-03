@@ -1,0 +1,20 @@
+# Evan Putnam, Giselle Urquijo, Kristin Tran
+
+
+# 3 part a
+"(/\*|//|#)"
+
+# 3 part b
+"^#[0-9]+$"
+
+# 3 part c
+"^(\+|-)?[0-9]+$"
+
+# 3 part d
+"^[0-9]*\.?[0-9]*$"
+
+# 3 part e
+"^(\+|-)?[0-9]*\.?[0-9]*$"
+
+# 3 part f
+"^([0-9]|[[:alpha:]]|-|_)+(\.cpp|\.h|\.txt)$"

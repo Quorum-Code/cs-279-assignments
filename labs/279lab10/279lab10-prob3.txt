@@ -1,0 +1,8 @@
+# Evan Putnam, Giselle Urquijo
+
+# 3 part a
+Any list style for loop
+
+# 3 part b
+${BASH_REMATCH[1]} would be the variable for each loop
+${BASH_REMATCH[2]} would be the list for the loop
